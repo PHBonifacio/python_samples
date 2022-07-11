@@ -1,0 +1,9 @@
+domain
+admin
+login
+images
+painel
+search
+buscas
+noticias
+busca
